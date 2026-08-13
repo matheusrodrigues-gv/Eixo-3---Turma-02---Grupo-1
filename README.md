@@ -25,7 +25,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 | Etapa         | Atividades |
 |  :----:   | ----------- |
-| ETAPA 1         |[Introdução](docs/introducao.md) * [Estado da Arte](docs/estado.md) * [Referências](docs/referencias.md) |
+| ETAPA 1         |[Introdução](docs/introducao.md) - [Estado da Arte](docs/estado.md) - [Referências](docs/referencias.md) |
 | ETAPA 2         |[Especificação de Requisitos de Software](docs/especificacao.md) |
 | ETAPA 3         |[Design de Interação](docs/design.md) |
 | ETAPA 4        |[Testes de Software](docs/testes.md) |
